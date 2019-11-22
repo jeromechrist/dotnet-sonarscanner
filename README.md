@@ -1,5 +1,5 @@
-[![](https://images.microbadger.com/badges/image/jeromechrist/dotnet-sonarscanner.svg)](https://microbadger.com/images/jeromechrist/dotnet-sonarscanner "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/jeromechrist/dotnet-sonarscanner.svg)](https://microbadger.com/images/jeromechrist/dotnet-sonarscanner "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/jeromechrist/dotnet-sonarscanner.svg)](https://microbadger.com/images/jeromechrist/dotnet-sonarscanner "Get your own image badge on microbadger.com")
 
 # dotnet-sonarscanner
 
